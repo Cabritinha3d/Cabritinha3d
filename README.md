@@ -1,16 +1,29 @@
-## Hi there 👋
+# Oi, eu sou a Ana!
 
-<!--
-**Cabritinha3d/Cabritinha3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Ana Yotsumoto**, Técnica de TI e solucionadora de problemas em tempo integral.
 
-Here are some ideas to get you started:
+**No meu dia a dia:**  
+🛠️ Resolvo problemas antes que eles se tornem crises  
+🔧 Mantenho sistemas funcionando sem sustos  
+📞 Dou suporte técnico que realmente ajuda  
+⚡ Automatizo tarefas repetitivas (porque tempo é precioso)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades Técnicas
+
+**Infraestrutura & Redes:**
+- Windows Server • Linux • Virtualização
+- Redes TCP/IP • DNS • DHCP • VPN
+- Monitoramento (Zabbix, Grafana)
+
+**Ferramentas do Dia a Dia:**
+- PowerShell • Bash • Git
+- GLPI • OSTicket • VMware
+- Office 365 • Active Directory
+
+
+
+*Sempre aberta para colaborar em projetos interessantes e trocar ideias sobre TI!*
+
+---
+
+⭐ *"Primeiro resolva o problema. Depois entenda o que aconteceu."* ⭐
